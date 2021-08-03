@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "homepage": ".",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@formspree/react": "^2.2.3",
     "@material-ui/core": "^4.11.3",
